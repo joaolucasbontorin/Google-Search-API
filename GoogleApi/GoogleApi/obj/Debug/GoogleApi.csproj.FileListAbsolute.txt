@@ -1,0 +1,30 @@
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\GoogleApi.exe.config
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\GoogleApi.exe
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\GoogleApi.pdb
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.Core.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.Customsearch.v1.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\log4net.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Newtonsoft.Json.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Zlib.Portable.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.pdb
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.xml
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.Core.pdb
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.Core.xml
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.Customsearch.v1.pdb
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.Customsearch.v1.xml
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.PlatformServices.pdb
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Google.Apis.PlatformServices.xml
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\log4net.xml
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Newtonsoft.Json.xml
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\bin\Debug\Zlib.Portable.xml
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\obj\Debug\GoogleApi.csprojResolveAssemblyReference.cache
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\obj\Debug\GoogleApi.exe
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\GoogleApi\GoogleApi\obj\Debug\GoogleApi.pdb
+C:\Users\JoãoLucasBontorinSav\Desktop\GoogleApi\GoogleApi\bin\Debug\GoogleApi.exe.config
+C:\Users\JoãoLucasBontorinSav\Desktop\GoogleApi\GoogleApi\obj\Debug\GoogleApi.exe
+C:\Users\JoãoLucasBontorinSav\Desktop\GoogleApi\GoogleApi\obj\Debug\GoogleApi.pdb
+C:\Users\JoãoLucasBontorinSav\Source\Repos\Google-Search-API\GoogleApi\GoogleApi\bin\Debug\GoogleApi.exe.config
+C:\Users\JoãoLucasBontorinSav\Source\Repos\Google-Search-API\GoogleApi\GoogleApi\obj\Debug\GoogleApi.exe
+C:\Users\JoãoLucasBontorinSav\Source\Repos\Google-Search-API\GoogleApi\GoogleApi\obj\Debug\GoogleApi.pdb
